@@ -1,6 +1,10 @@
 body {
   font-family: Verdana, Geneva, Arial, sans-serif;
-  font-size: 14px;
-  text-decoration: overline
-  
+  font-size: small;
 }
+h1{font-size:150%;
+}
+h2 {font-size:1.2em;
+}
+
+
